@@ -13,8 +13,6 @@ Note:
 
 **Target Planet Information**
 
-**Target Planet Information**
-
 | Target       | EPH | XPH | DPH | Build |
 |---|---|---|---|---|
 | Swamp Planet    | 410 | 23k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
