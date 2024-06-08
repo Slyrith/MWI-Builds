@@ -13,30 +13,33 @@ Note:
 
 **Target Planet Information**
 
-| Target              | EPH | XPH | DPH | Build |
+**Target Planet Information**
+
+| Target       | EPH | XPH | DPH | Build |
 |---|---|---|---|---|
-| Swamp Planet       |  410 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Swamp Planet (Elite) |  239 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Aqua Planet        |  280 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Aqua Planet (elite) |  141 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Jungle Planet      |  198 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Jungle Planet (elite) |  101 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Gobo Planet        |  217 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Gobo Planet (elite)  |  113 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/Ranged/DungeonSpecialist.json) |  | Planet of the Eyes |  165 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Planet of the Eyes (elite) |  86 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Sorcerer's Tower   |  140 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Sorcerer's Tower (elite) |  72 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Bear With It       |  126 |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Bear With It (elite)  |  45  |  | 7   | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Golem Cave         |  71  |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Golem Cave (elite)  |  0.4  |  | 17  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Twilight Zone      |  82  |  | 1   | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Twilight Zone (elite) |  10  |  | 17  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Infernal Abyss     |  78  |  | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Infernal Abyss (elite) |  19  |  | 12  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Chimerical Den  | ✅ | | | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Sinister Circus  | ✅ | | | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
-| Enchanted Fortress | ✅ | | | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Swamp Planet    | 410 | 23k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Swamp Planet (Elite) | 239 | 72k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Aqua Planet    | 280 | 57k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Aqua Planet (elite) | 141 | 90k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Jungle Planet   | 198 | 68k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Jungle Planet (elite) | 101 | 95k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Gobo Planet    | 217 | 70k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Gobo Planet (elite) | 113 | 113k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Planet of the Eyes | 165 | 78k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Planet of the Eyes (elite) | 86 | 118k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Sorcerer's Tower  | 140 | 90k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Sorcerer's Tower (elite) | 72 | 131k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Bear With It    | 126 | 86k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Bear With It (elite) | 45 | 93k | 7  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Golem Cave     | 71 | 92k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Golem Cave (elite) | 0.4 | 42k | 17 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Twilight Zone   | 82 | 101k | 1  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Twilight Zone (elite) | 10 | 55k | 17 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Infernal Abyss   | 78 | 104k | 0.00 | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Infernal Abyss (elite) | 19 | 86k | 12 | [Build](Combat/_MWISIM/Ranged/Markdown/DungeonSpecialist.json) |
+| Chimerical Den  | ✅ |  |  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Sinister Circus  | ✅ |  |  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
+| Enchanted Fortress | ✅ |  |  | [Build](Combat/_MWISIM/Ranged/DungeonSpecialist.json) |
 
 
 > [!TIP]
