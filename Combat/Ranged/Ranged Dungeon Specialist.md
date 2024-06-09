@@ -1,4 +1,4 @@
-# Dungeon Specialist
+# Ranged Dungeon Specialist 
 ![banner](/Assets/banner.png)
 
 Note:
